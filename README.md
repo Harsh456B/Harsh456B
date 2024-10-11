@@ -1,3 +1,5 @@
+![logo](https://github.com/Harsh456B/Harsh456B/blob/main/Black%20and%20White%20Trendy%20%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Harsh Bhogal</h1>
 <h3 align="center">AI-Engineer</h3>
 
